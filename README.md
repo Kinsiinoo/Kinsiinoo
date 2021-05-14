@@ -11,4 +11,4 @@ I'm a Sysadmin within a global company group. The language I use the most is Pow
 
 ## My GitHub Stats
 
-[![Kinsiinoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinsiinoo&show_icons=true&hide=stars&theme=dark&bg_color=135,28313b,485461&title_color=0CBABA&icon_color=0CBABA&text_color=ffffff&hide_border=true&include_all_commits=true)](https://github.com/Kinsiinoo)
+[![Kinsiinoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinsiinoo&show_icons=true&theme=dark&bg_color=135,28313b,485461&title_color=0CBABA&icon_color=0CBABA&text_color=ffffff&hide_border=true&include_all_commits=true)](https://github.com/Kinsiinoo)
